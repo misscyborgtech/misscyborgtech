@@ -1,8 +1,10 @@
 # 💫 About Me:
 
-Hi there! I'm Rox, a tech enthusiast with a strong foundation in quality assurance and a growing passion for fullstack web development.
+I'm Rox, a tech enthusiast with a strong foundation in quality assurance and a growing passion for fullstack web development.
 
-Through personal projects and continuous learning, I enjoy exploring the intersection of clean code, thoughtful design, and practical problem-solving — especially with JavaScript, Node.js, and React.
+I'm currently enrolled in the Full-Stack JavaScript Techdegree at Treehouse, where I'm expanding my skills through hands-on projects and deepening my understanding of JavaScript, Node.js, and React.
+
+Through personal projects and continuous learning, I enjoy exploring the intersection of clean code, thoughtful design, and practical problem-solving.
 
 This space is where I document what I’m building, experimenting with, and refining as I evolve technically.
 
