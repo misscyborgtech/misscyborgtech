@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm Miss Cyborg, and I've been working in the field of Information Technology for over 9 years. Passionate about continuous learning, I'm currently enrolled in the Full Stack JavaScript Techdegree at Treehouse to become a web developer.<br><br>This GitHub account is where I document my journey, share my projects, and explore the many possibilities of web development. 🚀
+
+Hi there! I'm Rox, a tech enthusiast with a strong foundation in quality assurance and a growing passion for fullstack web development.
+
+Through personal projects and continuous learning, I enjoy exploring the intersection of clean code, thoughtful design, and practical problem-solving — especially with JavaScript, Node.js, and React.
+
+This space is where I document what I’m building, experimenting with, and refining as I evolve technically.
+
+Thanks for stopping by!
+
 
 
 # 💻 Tech Stack:
